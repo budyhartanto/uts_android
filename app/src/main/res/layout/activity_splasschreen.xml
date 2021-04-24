@@ -6,6 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".activity._main.Splasschreen"
     android:orientation="vertical"
-    android:background="@drawable/splash">
+    android:background="@drawable/logo">
 
 </LinearLayout>
